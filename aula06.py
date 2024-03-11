@@ -1,5 +1,5 @@
-numero_1 = int(input('digite um número '))
-numero_2 = int(input('digite outro número '))
+numero_1 = input('digite um número ')
+numero_2 = input('digite outro número ')
 
-conta = numero_1 + numero_2 
+conta = int(numero_1) + int(numero_2) 
 input(conta)
