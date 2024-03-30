@@ -1,10 +1,9 @@
-# def contagem():
-#     num = 0
-#     for _ in range(10):
-#         num +=2
-#         print(num)
-# contagem()
-def conta(num, num2):
-    return num % num2 == 0
-resultado_conta = conta(16, 8)
-print(resultado_conta)
+class Mycall:
+    def __init__(self, numero):
+        self.phone = numero
+    def __call__(self, nome):
+        print(nome, 'está ligando', self.phone)
+        return True 
+call1 = Mycall('75965487563')
+retorno = call1('joãozinho')
+print(retorno)
