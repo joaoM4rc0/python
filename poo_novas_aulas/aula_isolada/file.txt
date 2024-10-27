@@ -1,7 +1,0 @@
-error: qualquer coisa (LogFileMixin)
-susseco: Que legal  (LogFileMixin)
-error: qualquer coisa (LogFileMixin)
-susseco: Que legal  (LogFileMixin)
-error: qualquer coisa (LogFileMixin)
-susseco: Que legal  (LogFileMixin)
-error: vai se fuder (LogFileMixin)
