@@ -1,3 +1,4 @@
 {
-    "cSpell.language": "en"
+    "editor.rulers": [80,120],
+    "cSpell.language": "pt-br"
 }
