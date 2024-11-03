@@ -1,7 +1,6 @@
 # Exercício - Salve sua classe em JSON
 # e depois crie novamente as instâncias
-# Salve os dados da sua classe em JSON
-# da classe com os dados salvos
+# Salve os dados da sua classe em JSON da classe com os dados salvos
 # Faça em arquivos separados.
 import json
 CAMINHO_ARQUIVO = 'exer23_b.json'
